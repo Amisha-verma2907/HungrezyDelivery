@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(32, 33, 38);
+}
+
+#carousel{
+   max-height:500px;
+
+}
+
+.form-label{
+    color:white;
+}
+
